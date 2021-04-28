@@ -10,4 +10,6 @@ General knowledge quiz app.
 
 ## Features
 - Object oriented application;
-- Stateless and Stateful widgets;
+- Stateless widgets designing the user interface;
+- Stateful widgets updating the user interface;
+- onClick Listeners;
